@@ -1,0 +1,54 @@
+# .NET Core / .NET 9
+bin/
+obj/
+out/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.vs/
+*.dbmdl
+*.pdb
+*.cache
+*.log
+*.ide
+*.sln.ide
+*.pidb
+*.svclog
+*.psess
+*.vsp
+*.vspscc
+*.vssscc
+TestResults/
+build/
+packages/
+*.nupkg
+*.snupkg
+.nuget/
+*.dll
+*.exe
+*.app
+*.lib
+*.deps.json
+*.runtimeconfig.json
+*.xml
+*.json
+*.csv
+*.sqlite
+*.mdf
+*.ldf
+*.bak
+*.sql
+*.publish/
+*.tsbuildinfo
+# Rider
+.idea/
+*.sln.iml
+# Visual Studio Code
+.vscode/
+# Mac
+.DS_Store
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
