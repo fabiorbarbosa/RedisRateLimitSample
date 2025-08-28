@@ -32,7 +32,6 @@ packages/
 *.deps.json
 *.runtimeconfig.json
 *.xml
-*.json
 *.csv
 *.sqlite
 *.mdf
